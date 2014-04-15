@@ -10,5 +10,5 @@ image:
   creditlink: http://liusongx.com
 ---
 
-<a markdown="0" href="{{ site.url/ }}" class="btn">回主页</a>
+<a markdown="0" href="{{ site.url }}/" class="btn">回主页</a>
 
