@@ -1,5 +1,5 @@
-title:            So Simple Theme
-description:      A simple and clean responsive Jekyll theme for words and photos.
+#title:            So Simple Theme
+#description:      A simple and clean responsive Jekyll theme for words and photos.
 logo:             site-logo.png
 disqus_shortname: sosimpletheme
 search:           true
@@ -8,26 +8,26 @@ url:              http://andylaucn.github.io/room-208
 
 # Owner/author information
 owner:
-  name:           Michael Rose
+  name:           Andy Lau
   avatar:         michael-rose-photo.jpg
-  email:          michael@mademistakes.com
+  email:          andylau08686@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        "mmistakes"
-  facebook:       "michaelrose"
-  github:         "mmistakes"
-  linkedin:       "michaelrose"
-  instagram:      "mmistakes"
-  tumblr:         "mademistakes"
-  stackexchange:  
+ # twitter:        "mmistakes"
+#  facebook:       "michaelrose"
+#  github:         "mmistakes"
+#  linkedin:       "michaelrose"
+#  instagram:      "mmistakes"
+#  tumblr:         "mademistakes"
+#  stackexchange:  
   flickr:                 
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "http://plus.google.com/118238196859537351707"
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-2011187-2
-google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+google_analytics:   UA-49813880-1
+#google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD   
+#bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD   
 
 # Links to include in top navigation
 # For external links add external: true
@@ -36,9 +36,9 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
+#  - title: Theme Setup
+#    url: /theme-setup/
+  - title: Homepage
     url: http://liusongx.com
     external: true
 
