@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: 关于宿舍208
+title: 宿舍208
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
 image:
