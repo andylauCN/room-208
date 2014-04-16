@@ -1,7 +1,7 @@
 #title:            So Simple Theme
 #description:      A simple and clean responsive Jekyll theme for words and photos.
 logo:             site-logo.png
-disqus_shortname: sosimpletheme
+disqus_shortname: andylaucn
 search:           true
 #Comment out url when working locally to resolve base urls correctly
 url:              http://andylaucn.github.io/room-208
